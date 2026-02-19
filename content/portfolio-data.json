@@ -1,0 +1,178 @@
+[
+  {
+    "id": "goods-06",
+    "title": "錫燈燈頭 - 透明款 (2.8呎)",
+    "category": "錫燈燈頭",
+    "description": "經典透明版本，呈現如水晶般的清透質感，能完美展現錫燈內部的工藝細節。",
+    "image": "assets/img/goods/need_6.JPG",
+    "featured": true
+  },
+  {
+    "id": "goods-01",
+    "title": "錫燈燈頭 - 染色系列",
+    "category": "錫燈燈頭",
+    "description": "鳳麟獨家染色工藝，色澤溫潤且層次豐富，為傳統祭祀空間增添莊嚴氛圍。",
+    "image": "assets/img/goods/need_1.jpg",
+    "featured": true
+  },
+  {
+    "id": "goods-02",
+    "title": "錫燈燈頭 - 職人工藝展示",
+    "category": "錫燈燈頭",
+    "description": "結合傳統錫藝與現代照明技術，無論哪種尺寸皆具備極佳的耐用度與視覺效果。",
+    "image": "assets/img/goods/need_2.JPG",
+    "featured": false
+  },
+  {
+    "id": "goods-03",
+    "title": "錫燈燈頭 - 專業光影細節",
+    "category": "錫燈燈頭",
+    "description": "針對不同尺寸神龕量身打造，光線散射均勻，確保神位整體莊嚴明亮。",
+    "image": "assets/img/goods/need_3.jpg",
+    "featured": false
+  },
+  {
+    "id": "goods-04",
+    "title": "錫燈燈頭 - 經典染色款",
+    "category": "錫燈燈頭",
+    "description": "經過多道工序處理，色彩與光線完美融合，展現優雅且穩重的視覺層次。",
+    "image": "assets/img/goods/need_4.jpg",
+    "featured": false
+  },
+  {
+    "id": "goods-05",
+    "title": "錫燈燈頭 - 規格尺寸展示",
+    "category": "錫燈燈頭",
+    "description": "提供從 1.6呎到 4.2呎五種完整尺寸，滿足從家用神龕到大型宮廟的需求。",
+    "image": "assets/img/goods/need_5.JPG",
+    "featured": false
+  },
+  {
+    "id": "goods-07",
+    "title": "錫燈燈頭 - 實體安裝參考",
+    "category": "錫燈燈頭",
+    "description": "實品展示，呈現錫燈燈頭安裝後的實際透光感與空間適配性。",
+    "image": "assets/img/goods/need_7.JPG",
+    "featured": false
+  },
+  {
+    "id": "goods-08",
+    "title": "錫燈燈頭 - 品質工藝細節",
+    "category": "錫燈燈頭",
+    "description": "每一顆燈頭都經過嚴格品質控管，確保透光均勻且色澤恆久。",
+    "image": "assets/img/goods/need_8.JPG",
+    "featured": false
+  },
+  {
+    "id": "temple-01",
+    "title": "台南大天后宮 - 全景",
+    "category": "廟宇案例",
+    "description": "大殿整體照明優化，讓錫燈在莊嚴的氛圍中成為視覺焦點。",
+    "image": "assets/img/temples/大天后宫.JPG",
+    "featured": true
+  },
+  {
+    "id": "temple-02",
+    "title": "台南大天后宮",
+    "category": "廟宇案例",
+    "description": "神龕錫燈照明規劃，透過精準光影展現傳統工藝的層次美感。",
+    "image": "assets/img/temples/大天后1.jpg",
+    "featured": false
+  },
+  {
+    "id": "temple-03",
+    "title": "大甲鎮瀾宮",
+    "category": "廟宇案例",
+    "description": "配合廟方需求，為大型錫燈提供最合適的照明方案。",
+    "image": "assets/img/temples/大甲1.jpg",
+    "featured": false
+  },
+  {
+    "id": "temple-04",
+    "title": "大龍峒保安宮",
+    "category": "廟宇案例",
+    "description": "隱蔽式燈光設計，在守護古蹟的同時，點亮傳統錫燈的工藝之美。",
+    "image": "assets/img/temples/大龍峒1.jpg",
+    "featured": false
+  },
+  {
+    "id": "temple-05",
+    "title": "北港朝天宮",
+    "category": "廟宇案例",
+    "description": "專業照明升級工程，讓精美錫燈在夜晚依然綻放光彩。",
+    "image": "assets/img/temples/北港朝天宮1.jpg",
+    "featured": false
+  },
+  {
+    "id": "temple-06",
+    "title": "白沙屯拱天宮",
+    "category": "廟宇案例",
+    "description": "針對參拜動線設計，完美融合錫燈照明與廟宇神聖空間。",
+    "image": "assets/img/temples/白沙屯1.jpg",
+    "featured": false
+  },
+  {
+    "id": "temple-07",
+    "title": "東港東隆宮",
+    "category": "廟宇案例",
+    "description": "輝煌的燈光投射，與金箔建築交織出宏偉的宗教氣勢。",
+    "image": "assets/img/temples/東港王爺1.jpg",
+    "featured": false
+  },
+  {
+    "id": "temple-08",
+    "title": "祀典武廟",
+    "category": "廟宇案例",
+    "description": "柔和光源設計，突顯錫燈與神龕的歷史韻味，氛圍靜謐莊重。",
+    "image": "assets/img/temples/武廟1.jpg",
+    "featured": false
+  },
+  {
+    "id": "temple-09",
+    "title": "北港武德宮",
+    "category": "廟宇案例",
+    "description": "現代化宮廟照明範例，大尺寸燈頭展現殿堂恢弘氣勢。",
+    "image": "assets/img/temples/武德宮1.jpg",
+    "featured": false
+  },
+  {
+    "id": "temple-10",
+    "title": "屏東慈鳳宮",
+    "category": "廟宇案例",
+    "description": "透過在地文化的深耕，將錫燈工藝轉化為溫暖的信仰光芒。",
+    "image": "assets/img/temples/屏媽1.jpg",
+    "featured": false
+  },
+  {
+    "id": "temple-11",
+    "title": "祖師廟工藝特寫",
+    "category": "廟宇案例",
+    "description": "精確控光技術，展現錫燈燈頭在光線折射下的玲瓏剔透。",
+    "image": "assets/img/temples/清水祖師1.jpg",
+    "featured": false
+  },
+  {
+    "id": "temple-12",
+    "title": "慈惠堂",
+    "category": "廟宇案例",
+    "description": "暖色調光影規劃，營造出令信眾感到心靈安寧的參拜空間。",
+    "image": "assets/img/temples/慈惠堂.jpg",
+    "featured": false
+  },
+  {
+    "id": "temple-13",
+    "title": "艋舺龍山寺",
+    "category": "廟宇案例",
+    "description": "文物級照明標準，兼顧傳統美學與藝術展現的照明規劃。",
+    "image": "assets/img/temples/龍山寺.jpg",
+    "featured": false
+  },
+  {
+    "id": "proof-01",
+    "title": "錫燈照明技術專利",
+    "category": "專利證明",
+    "description": "鳳麟工作室獨家研發之錫燈專用照明結構，獲國家專利認證。",
+    "image": "assets/img/proofs/proof.jpg",
+    "featured": true
+  }
+]
