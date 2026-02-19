@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>鳳麟柑仔燈工作室｜關於我們</title>
+  <meta name="description" content="鳳麟柑仔燈工作室品牌介紹、工藝理念與製作流程。">
+  <link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body data-page="about" data-page-title="關於我們">
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="index.html">
+        <span class="brand-mark">鳳</span>
+        <span class="brand-name">
+          <strong id="brandZh">鳳麟柑仔燈工作室</strong>
+          <span id="brandEn">FENGLIN STUDIO</span>
+        </span>
+      </a>
+      <button id="menuToggle" class="menu-toggle" type="button">選單</button>
+      <nav id="mainNav" class="nav">
+        <ul>
+          <li><a data-nav="home" href="index.html">首頁</a></li>
+          <li><a data-nav="about" href="about.html">關於我們</a></li>
+          <li><a data-nav="services" href="services.html">服務項目</a></li>
+          <li><a data-nav="portfolio" href="portfolio.html">作品展示</a></li>
+          <li><a data-nav="contact" href="contact.html">聯絡我們</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main class="section">
+    <div class="container">
+      <div class="about-intro" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 40px; align-items: center; margin-bottom: 60px;">
+        <div class="about-copy">
+          <h2 style="margin-bottom: 24px; font-size: 2rem;">關於 <span style="color: #c79a45;">鳳麟柑仔燈工作室</span></h2>
+          <p class="lead" style="margin-bottom: 24px; line-height: 1.8; font-size: 1.1rem; color: #1f1b17;">
+            鳳麟柑仔燈工作室秉持成立百年的工藝精神，以純手工製作為核心，傳承百年傳統錫燈燈頭技法。<br><br>
+            從材料、結構到光感比例，皆重視穩定、耐用與文化質感。
+          </p>
+          <div class="about-tags" style="display: flex; gap: 12px; flex-wrap: wrap;">
+            <span class="tag">百年工藝</span>
+            <span class="tag">純手工玻璃柑仔燈</span>
+            <span class="tag">錫燈座及柑仔燈</span>
+          </div>
+        </div>
+        <div class="about-image">
+          <img src="assets/img/goods/need_9.png" alt="鳳麟柑仔燈工作室 - 純手工玻璃柑仔燈" style="width: 100%; max-height: 500px; object-fit: contain; border-radius: 4px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
+        </div>
+      </div>
+
+      <div class="cards">
+        <article class="card">
+          <h3>品牌歷程</h3>
+          <p>成立百年，服務各大廟宇，持續累積跨世代製作經驗。</p>
+        </article>
+        <article class="card">
+          <h3>設計理念</h3>
+          <p>以純手工製作為核心，重視穩定光感與耐久材料，讓作品經得起時間。</p>
+        </article>
+        <article class="card">
+          <h3>錫燈工藝原則</h3>
+          <p>百年傳統錫燈燈頭技法搭配現代線路安全標準，兼顧文化質感與日常耐用。</p>
+        </article>
+      </div>
+
+      <section class="media-section">
+        <h2>廟宇案例</h2>
+        <div id="templesGrid" class="works"></div>
+      </section>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <span>© <span id="footerYear"></span> <span id="footerBrand"></span></span>
+      <span id="footerTagline"></span>
+    </div>
+  </footer>
+
+  <script src="content/site-config.js"></script>
+  <script src="content/temples-data.js"></script>
+  <script src="assets/js/site.js"></script>
+  <script src="assets/js/temples.js"></script>
+</body>
+</html>
