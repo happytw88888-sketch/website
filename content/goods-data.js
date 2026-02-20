@@ -1,42 +1,42 @@
 ﻿window.GOODS_DATA = [
   {
     image: "assets/img/goods/need_1.jpg",
-    title: "傳統神明燈 - 經典款",
+    title: "手工柑仔燈展示 1",
     description: ""
   },
   {
     image: "assets/img/goods/need_2.JPG",
-    title: "客製化燈具 - 龍紋飾",
+    title: "手工柑仔燈展示 2",
     description: ""
   },
   {
     image: "assets/img/goods/need_3.jpg",
-    title: "廟宇室內專用燈",
+    title: "手工柑仔燈展示 3",
     description: ""
   },
   {
     image: "assets/img/goods/need_4.jpg",
-    title: "匾額專用洗牆燈",
+    title: "手工柑仔燈展示 4",
     description: ""
   },
   {
     image: "assets/img/goods/need_5.JPG",
-    title: "節能 LED 神明燈",
+    title: "手工柑仔燈展示 5",
     description: ""
   },
   {
     image: "assets/img/goods/need_6.JPG",
-    title: "手作彩繪燈座",
+    title: "手工柑仔燈展示 6",
     description: ""
   },
   {
     image: "assets/img/goods/need_7.JPG",
-    title: "現代風宮廟吊燈",
+    title: "手工柑仔燈展示 7",
     description: ""
   },
   {
     image: "assets/img/goods/need_8.JPG",
-    title: "戶外防水宮燈",
+    title: "手工柑仔燈展示 8",
     description: ""
   }
 ];

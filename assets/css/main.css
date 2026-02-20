@@ -550,6 +550,26 @@ body[data-page="process"] .craft-item:nth-child(8){animation-delay:.75s}
 .kandeng-proof-display p{
   margin:0;color:#d7c6aa;letter-spacing:.08em
 }
+.kandeng-faq{
+  background:#0f0d0b;color:#f5efe6
+}
+.kandeng-faq .lead{
+  color:rgba(245,239,230,.78)
+}
+.kandeng-faq-list{
+  display:grid;gap:18px;margin-top:24px
+}
+.kandeng-faq-item{
+  padding:20px 22px;border:1px solid rgba(201,163,92,.25);
+  border-radius:12px;background:rgba(23,19,15,.6);
+  box-shadow:inset 0 0 0 1px rgba(255,255,255,.02)
+}
+.kandeng-faq-item h3{
+  margin-bottom:10px;font-size:1.1rem;color:#f5efe6
+}
+.kandeng-faq-item p{
+  margin:0;color:rgba(245,239,230,.8);line-height:1.7
+}
 .kandeng-badges span{
   padding:8px 12px;border-radius:999px;
   border:1px solid rgba(201,163,92,.35);
