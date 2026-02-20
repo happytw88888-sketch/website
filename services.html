@@ -53,13 +53,44 @@
         <article class="service">
           <div class="service-text">
             <h3>尺寸規格</h3>
-            <ul>
-              <li>1.6 呎 / 小</li>
-              <li>2.2 呎 / 中</li>
-              <li>2.8 呎 / 大</li>
-              <li>3.6 呎 / 特大</li>
-              <li>4.2 呎 / 最大</li>
-            </ul>
+            <div class="spec-table">
+              <div class="spec-row spec-head">
+                <span>規格（尺寸）</span>
+                <span>肚圍</span>
+                <span>底座（直徑）</span>
+                <span>高度</span>
+              </div>
+              <div class="spec-row">
+                <span>小（1.6 呎）</span>
+                <span>45 cm</span>
+                <span>6 cm</span>
+                <span>18.5 cm</span>
+              </div>
+              <div class="spec-row">
+                <span>中（2.2 呎）</span>
+                <span>48.5 cm</span>
+                <span>7.2 cm</span>
+                <span>21 cm</span>
+              </div>
+              <div class="spec-row">
+                <span>大（2.8 呎）</span>
+                <span>51.5 cm</span>
+                <span>8 cm</span>
+                <span>21.5 cm</span>
+              </div>
+              <div class="spec-row">
+                <span>特大（3.6 呎）</span>
+                <span>60 cm</span>
+                <span>8.2 cm</span>
+                <span>24.5 cm</span>
+              </div>
+              <div class="spec-row">
+                <span>最大（4.2 呎）</span>
+                <span>74 cm</span>
+                <span>8.6 cm</span>
+                <span>33 cm</span>
+              </div>
+            </div>
           </div>
           <button type="button" class="service-media-btn lightbox-trigger" data-image="assets/img/規格展示.jpg" data-title="錫燈燈頭尺寸規格展示">
             <img class="service-media" src="assets/img/規格展示.jpg" alt="錫燈燈頭尺寸規格展示">
@@ -74,9 +105,22 @@
               <li>可提供整體搭配建議</li>
             </ul>
           </div>
-          <button type="button" class="service-media-btn lightbox-trigger" data-image="assets/img/goods/need_7.JPG" data-title="錫燈燈頭客製字樣展示">
-            <img class="service-media" src="assets/img/goods/need_7.JPG" alt="錫燈燈頭客製字樣展示">
-          </button>
+          <div class="service-media service-carousel">
+            <div class="craft-carousel" data-carousel>
+              <button class="craft-carousel-btn prev" type="button" aria-label="上一張">‹</button>
+              <div class="craft-carousel-track">
+                <img class="lightbox-trigger" data-image="assets/img/goods/客製化1.JPG" data-title="客製化 1" src="assets/img/goods/客製化1.JPG" alt="客製化 1">
+                <img class="lightbox-trigger" data-image="assets/img/goods/客製化2.jpg" data-title="客製化 2" src="assets/img/goods/客製化2.jpg" alt="客製化 2">
+                <img class="lightbox-trigger" data-image="assets/img/goods/特1.JPG" data-title="特 1" src="assets/img/goods/特1.JPG" alt="特 1">
+                <img class="lightbox-trigger" data-image="assets/img/goods/特2.JPG" data-title="特 2" src="assets/img/goods/特2.JPG" alt="特 2">
+                <img class="lightbox-trigger" data-image="assets/img/goods/特3.jpeg" data-title="特 3" src="assets/img/goods/特3.jpeg" alt="特 3">
+                <img class="lightbox-trigger" data-image="assets/img/goods/特4.JPG" data-title="特 4" src="assets/img/goods/特4.JPG" alt="特 4">
+                <img class="lightbox-trigger" data-image="assets/img/goods/特7.JPG" data-title="特 7" src="assets/img/goods/特7.JPG" alt="特 7">
+                <img class="lightbox-trigger" data-image="assets/img/goods/紅底大字.jpeg" data-title="紅底大字" src="assets/img/goods/紅底大字.jpeg" alt="紅底大字">
+              </div>
+              <button class="craft-carousel-btn next" type="button" aria-label="下一張">›</button>
+            </div>
+          </div>
         </article>
       </div>
 
@@ -106,6 +150,7 @@
 
   <script src="content/site-config.js"></script>
   <script src="assets/js/site.js"></script>
+  <script src="assets/js/process.js"></script>
   <script src="content/proofs-data.js"></script>
   <script src="assets/js/proofs.js"></script>
 </body>
